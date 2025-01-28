@@ -1,0 +1,7 @@
+# Article that I find interesting
+
+## How Chinese AI Startup DeepSeek Made a Model that Rivals OpenAI
+
+### https://www.wired.com/story/deepseek-china-model-ai/
+
+This article talks about Deepseek, an open-source AI LLM model developed by China. I think it is very interesting as it is open-source and the required much less budget compared to OpenAI's ChatGPT. Consequently, the need for GPU for the LLM has also dropped; and the stock price for NVIDIA also significantly dropped. It is going to be interesting watching the competition in AI models between China and the US.
