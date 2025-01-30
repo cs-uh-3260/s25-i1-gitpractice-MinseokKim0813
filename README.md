@@ -5,3 +5,8 @@
 A simple project to practice a few git/github workflows. Update this file as instructed in [instructions](./instructions.md).
 
 Name: Minseok Kim
+
+# Pull Request
+
+Junyong's repo which I merged mine into:
+[link to the merged pull request](https://github.com/cs-uh-3260/s25-i1-gitpractice-junyong-moon)
