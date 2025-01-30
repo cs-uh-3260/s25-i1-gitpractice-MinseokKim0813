@@ -9,3 +9,14 @@ This article talks about Deepseek, an open-source AI LLM developed by China. I t
 ## Proof Reading
 
 Article checked for typos
+ 
+## Comments from Izah
+I've been reading a lot about DeepSeek lately, and this article provides a 
+really insightful look into its advancements and impact. It's fascinating 
+to see how China is positioning DeepSeek as a major player in the AI 
+space, pushing the boundaries of large language models and open-source AI.  
+
+What stands out to me is how DeepSeek is not just about competing with 
+Western models but also about fostering AI innovation in a unique way. The 
+article does a great job of highlighting the broader implications of this 
+development in the global AI landscape.  
